@@ -52,9 +52,7 @@ With the following software and hardware list you can run all code files present
 * Hands-On Data Science with Anaconda [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/hands-data-science-anaconda?utm_source=github&utm_medium=repository&utm_campaign=9781788831192) [[Amazon]](https://www.amazon.com/dp/1788831195)
 
 ## Get to Know the Author
-**Curtis Miller**
-
-Curtis Miller is a graduate student at the University of Utah, seeking an Master’s in Statistics (MSTAT) and a Big Data Certificate.
+**Curtis Miller** is a graduate student at the University of Utah, seeking an Master’s in Statistics (MSTAT) and a Big Data Certificate.
 In the past, Curtis has worked as a Math Tutor, and has a double major adding mathematics with an emphasis in statistics as a second major. Curtis has studied the gender pay gap, and presented his paper or Gender Pay Disparity in Utah, which grabbed the attention of local media outlets. He currently teaches Basic Statistics at the University of Utah. He enjoys writing and is an avid reader, and enjoys studying politics, economics, history, and psychology and sociology.
 
 
