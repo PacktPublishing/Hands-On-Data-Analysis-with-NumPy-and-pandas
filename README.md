@@ -33,6 +33,7 @@ conda install selenium
 ```
 
 **Following is what you need for this book:**
+
 Hands-On Data Analysis with NumPy and Pandas is for you if you are a Python developer and want to take your first steps into the world of data analysis. No previous experience of data analysis is required to enjoy this book.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
@@ -50,7 +51,7 @@ With the following software and hardware list you can run all code files present
 
 * Hands-On Data Science with Anaconda [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/hands-data-science-anaconda?utm_source=github&utm_medium=repository&utm_campaign=9781788831192) [[Amazon]](https://www.amazon.com/dp/1788831195)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Curtis Miller**
 
 Curtis Miller is a graduate student at the University of Utah, seeking an Master’s in Statistics (MSTAT) and a Big Data Certificate.
